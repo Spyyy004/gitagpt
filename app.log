@@ -1,0 +1,11 @@
+2025-01-27 12:42:05,740 - INFO - Initializing RAGApplication...
+2025-01-27 12:42:05,756 - INFO - Use pytorch device_name: mps
+2025-01-27 12:42:05,756 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-01-27 12:42:09,151 - INFO - CustomEmbedding initialized with model all-MiniLM-L6-v2
+2025-01-27 12:42:09,153 - INFO - Loading faiss.
+2025-01-27 12:42:09,209 - INFO - Successfully loaded faiss.
+2025-01-27 12:42:09,230 - INFO - Vectorstore loaded from existing index.
+2025-01-27 12:42:09,246 - INFO - RAGApplication initialized successfully.
+2025-01-27 12:42:12,333 - INFO - Translator initialized with MarianMTModel.
+2025-01-27 12:42:34,131 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-01-27 12:54:33,677 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
