@@ -157,7 +157,7 @@ olefile==0.47
 ollama==0.4.7
 onnxruntime==1.19.2
 openai==1.60.0
-openai-whisper==20231117
+openai-whisper==20240930
 opencv-python==4.9.0.80
 opencv-python-headless==4.10.0.84
 openpyxl==3.1.2
