@@ -171,7 +171,7 @@ async def chat_endpoint(request: ChatRequest):
             answer = rag_response["answer"]
 
         total_time = time.time() - start_time
-        print(f"Total response time: {total_time:.2f}s")
+        print(f"Total responses time: {total_time:.2f}s")
 
         # Construct the response
         response = {
