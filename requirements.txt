@@ -39,7 +39,7 @@ Deprecated
 dill
 distro
 Django
-dlib
+
 durationpy
 emoji
 et-xmlfile
@@ -273,8 +273,6 @@ typer
 typing-inspect
 typing_extensions
 tzdata
-ultralytics @ git+https://github.com/THU-MIG/yolov10.git@6fbaf42b23f6709f4e34a51430587673e70e151d
-ultralytics-thop
 unstructured
 unstructured-client
 urllib3
