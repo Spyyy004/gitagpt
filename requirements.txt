@@ -7,3 +7,4 @@ transformers
 uvicorn
 python-dotenv
 faiss-cpu
+sentencepiece
