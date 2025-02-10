@@ -6,3 +6,4 @@ langchain_community
 transformers
 uvicorn
 python-dotenv
+faiss-cpu
