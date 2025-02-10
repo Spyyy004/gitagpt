@@ -4,5 +4,5 @@ langchain_openai
 langchain_core
 langchain_community
 transformers
-python-dotenv
 uvicorn
+python-dotenv
